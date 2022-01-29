@@ -8,6 +8,7 @@ Moreover, we need to convert the data to html table which can be easily filtered
 
 ## Results
 * We have build a webpage on [UFO sightings](https://cryptotwister.github.io/UFOs/) and deployed it on a github page.
-* ![UFO webpage](https://user-images.githubusercontent.com/42978221/151672339-646150eb-0e42-4dd7-a154-388cf1062f68.png)
+
+![UFO webpage](https://user-images.githubusercontent.com/42978221/151672339-646150eb-0e42-4dd7-a154-388cf1062f68.png)
 
 ## Summary 
