@@ -7,6 +7,6 @@ Dana wants our help to put everything together into a web page with an article a
 Moreover, we need to convert the data to html table which can be easily filtered for date, city, state, country and shape using javascript.
 
 ## Results
-* We have build a webpage on UFO sightings and deployed it on a github page [UFO Sightings](https://cryptotwister.github.io/UFOs/).
+* We have build a webpage on [UFO sightings](https://cryptotwister.github.io/UFOs/) and deployed it on a github page.
 
 ## Summary 
