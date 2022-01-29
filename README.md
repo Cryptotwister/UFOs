@@ -11,4 +11,6 @@ Moreover, we need to convert the data to html table which can be easily filtered
 
 ![UFO webpage](https://user-images.githubusercontent.com/42978221/151672339-646150eb-0e42-4dd7-a154-388cf1062f68.png)
 
+* The code with filters regarding date, city, state, country and shape can be viewed at [app.js](https://github.com/Cryptotwister/UFOs/blob/main/static/js/app.js) and [index.html](https://github.com/Cryptotwister/UFOs/blob/main/index.html) files.
+
 ## Summary 
