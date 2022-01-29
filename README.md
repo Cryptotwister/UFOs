@@ -13,4 +13,6 @@ Moreover, we need to convert the data to html table which can be easily filtered
 
 * The code with filters regarding date, city, state, country and shape can be viewed at [app.js](https://github.com/Cryptotwister/UFOs/blob/main/static/js/app.js) and [index.html](https://github.com/Cryptotwister/UFOs/blob/main/index.html) files.
 
+* The image below provides the example of filtering the data on a webpage. We entered the date, state and country. Similarly we can add and modify other filters available to use them in combination.
+
 ## Summary 
