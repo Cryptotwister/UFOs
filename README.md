@@ -15,4 +15,4 @@ Moreover, we need to convert the data to html table which can be easily filtered
 
 * The image below provides the example of filtering the data on a webpage. We entered the date, state and country. Similarly we can add and modify other filters available to use them in combination.
 
-## Summary 
+* ![UFO filtering example](https://user-images.githubusercontent.com/42978221/151673004-7057ca28-eb12-4dca-b95d-4c597da23f79.png)
